@@ -1,0 +1,31 @@
+{
+    "name": "nwidart/supportticket",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\SupportTicket\\": "",
+            "Modules\\SupportTicket\\App\\": "app/",
+            "Modules\\SupportTicket\\Database\\Factories\\": "database/factories/",
+            "Modules\\SupportTicket\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\SupportTicket\\Tests\\": "tests/"
+        }
+    }
+}

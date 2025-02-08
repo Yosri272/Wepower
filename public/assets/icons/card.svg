@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="vuesax/linear/card">
+<g id="card">
+<path id="Line" d="M2.66675 11.3398H29.3334" stroke="#475569" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Line_2" d="M8 22.0068H10.6667" stroke="#475569" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Line_3" d="M14 22.0068H19.3333" stroke="#475569" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector" d="M8.58675 4.67334H23.4001C28.1467 4.67334 29.3334 5.84667 29.3334 10.5267V21.4733C29.3334 26.1533 28.1467 27.3267 23.4134 27.3267H8.58675C3.85341 27.34 2.66675 26.1667 2.66675 21.4867V10.5267C2.66675 5.84667 3.85341 4.67334 8.58675 4.67334Z" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>
