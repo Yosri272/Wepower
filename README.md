@@ -1,82 +1,38 @@
-# Laravel Project 
+<p align="center"><a href="https://wepower.com" target="_blank"><img src="https://wepower.com/logo.png" width="400"></a></p> <p align="center"> <a href="https://travis-ci.org/wepower/repository"><img src="https://travis-ci.org/wepower/repository.svg" alt="Build Status"></a> <a href="https://packagist.org/packages/wepower/framework"><img src="https://poser.pugx.org/wepower/framework/d/total.svg" alt="Total Downloads"></a> <a href="https://packagist.org/packages/wepower/framework"><img src="https://poser.pugx.org/wepower/framework/v/stable.svg" alt="Latest Stable Version"></a> </p>
+About WePower
+WePower is a modern and powerful e-commerce platform designed to provide a seamless online shopping experience. It simplifies and enhances the process of building and managing online stores with an intuitive and feature-rich system.
 
-## Introduction
-This is a Laravel-based project named **WePower**. It follows the MVC structure and includes various modules and dependencies for web development.
+Key Features:
+Fast and efficient product management.
+Secure and scalable payment gateway integration.
+Customizable storefront with dynamic themes.
+Advanced order and inventory management.
+Multi-vendor support for marketplace solutions.
+AI-powered analytics and insights.
+Real-time notifications and order tracking.
+WePower provides an easy-to-use, flexible, and scalable solution for businesses looking to expand their online presence and boost sales.
 
-## Requirements
-Before installing, ensure your system meets the following requirements:
-- PHP >= 8.0
-- Composer
-- Node.js and npm
-- MySQL or any other supported database
-- Laravel dependencies installed
+Learning WePower
+WePower offers comprehensive documentation and a detailed video tutorial library, making it easy for developers and merchants to get started.
 
-## Installation
-Follow these steps to set up the project:
+If you prefer video learning, check out WePower Academy, where you’ll find step-by-step tutorials covering:
 
-1. **Clone the Repository** (if applicable):
-   ```sh
-   git clone <repository-url>
-   cd wepower
-   ```
+Setting up your WePower store
+Managing products and categories
+Customizing storefronts with themes
+Integrating payment and shipping options
+Optimizing your store for performance and SEO
+WePower Sponsors
+WePower is made possible thanks to the generous support of our sponsors. If you’d like to contribute and support the platform, please visit our Sponsorship Page.
 
-2. **Install Composer Dependencies:**
-   ```sh
-   composer install
-   ```
 
-3. **Install NPM Dependencies:**
-   ```sh
-   npm install && npm run dev
-   ```
+We appreciate your interest in contributing to WePower! Our platform is open-source, and we welcome contributions from the community. Check out the Contribution Guide for more details.
 
-4. **Set Up Environment File:**
-   ```sh
-   cp .env.example .env
-   ```
-   Then configure the `.env` file with database credentials and other required settings.
+Code of Conduct
+To maintain a positive and inclusive community, please follow our Code of Conduct.
 
-5. **Generate Application Key:**
-   ```sh
-   php artisan key:generate
-   ```
+Security Vulnerabilities
+If you find a security vulnerability in WePower, please report it immediately by emailing security@wepower.com, and we will address it as soon as possible.
 
-6. **Run Database Migrations:**
-   ```sh
-   php artisan migrate
-   ```
-
-7. **Run Database Seeder (if available):**
-   ```sh
-   php artisan db:seed
-   ```
-
-8. **Start the Local Development Server:**
-   ```sh
-   php artisan serve
-   ```
-
-## Additional Commands
-- **Clear Cache:**
-  ```sh
-  php artisan cache:clear
-  php artisan config:clear
-  php artisan route:clear
-  php artisan view:clear
-  ```
-- **Run Tests:**
-  ```sh
-  php artisan test
-  ```
-
-## Deployment
-- Use `php artisan optimize` to optimize the app before deployment.
-- Make sure to set up the necessary environment variables in production.
-- Run `composer install --no-dev --optimize-autoloader` for production-ready dependencies.
-
-## License
-This project is licensed under a proprietary license. Contact the project owner for more details.
-
-## Contact
-For any issues or inquiries, reach out to the development team or open an issue in the repository.
-
+License
+WePower is open-source software licensed under the MIT License.
