@@ -51,7 +51,7 @@ Code of Conduct
 To maintain a positive and inclusive community, please follow our Code of Conduct.
 
 Security Vulnerabilities
-If you find a security vulnerability in WePower, please report it immediately by emailing security@wepower.com, and we will address it as soon as possible.
+If you find a security vulnerability in WePower, please report it immediately by emailing yosrimeysera@gmail.com, and we will address it as soon as possible.
 
 License
 WePower is open-source software licensed under the MIT License.
