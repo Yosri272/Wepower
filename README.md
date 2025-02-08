@@ -1,4 +1,9 @@
-<p align="center"><a href="https://wepower.com" target="_blank"><img src="https://wepower.com/logo.png" width="400"></a></p> <p align="center"> <a href="https://travis-ci.org/wepower/repository"><img src="https://travis-ci.org/wepower/repository.svg" alt="Build Status"></a> <a href="https://packagist.org/packages/wepower/framework"><img src="https://poser.pugx.org/wepower/framework/d/total.svg" alt="Total Downloads"></a> <a href="https://packagist.org/packages/wepower/framework"><img src="https://poser.pugx.org/wepower/framework/v/stable.svg" alt="Latest Stable Version"></a> </p>
+<p align="center">
+  <a href="https://laravel.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400">
+  </a>
+</p>
+
 About WePower
 WePower is a modern and powerful e-commerce platform designed to provide a seamless online shopping experience. It simplifies and enhances the process of building and managing online stores with an intuitive and feature-rich system.
 
